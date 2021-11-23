@@ -34,8 +34,6 @@
 <p>=> http://localhost:8082/desafio/monitoramento</p>
 <p>=> http://localhost:8082/desafio/log</p>
 
-<p>Histórico de logs disponível via <strong> Swagger</strong> no endpoint <strong> http://localhost:8082/desafio/historico </strong></p>
-
 </br>
 
 <h2>Base de dados</h2>
